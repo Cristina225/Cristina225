@@ -2,6 +2,7 @@ Olá, me chamo Daiana!
 Bem vindo ao meu perfil GitHub!😊
 Estou muito feliz por estar inicinado aqui, estou dando os primeiros passos, mas feliz!
 Sou de Santa Catarina, atualmente trabalho CLT, e estou cursando os cursos Alura, onde passei em uma seleção.🙏🏽
+Sou formada em Marketing Digital, e apartir do curso me encantei com o mundo da tecnologia!
 Vejo como uma grande oportunidade em mudar de vida, pois através dos cursos terei acesso ao mercado de trabalho, e o mais importante: Tecnologia!🚀
 
 <!---
